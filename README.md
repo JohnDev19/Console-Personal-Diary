@@ -1,0 +1,1 @@
+# Console-Personal-Diary
